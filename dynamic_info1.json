@@ -1,0 +1,11 @@
+{
+    "checksum": {
+        "TYPE": "md5",
+        "value": "e3be76f9b6c98472a6ba2d86ab2ccc1a"
+    },
+    "channel": "Gionq0cq0yDy66hVJOuIOSichuqKQqcV",
+    "version": "1.5.2",
+    "subVersion": 1,
+    "package": "http://robinfjb.github.io/dex.jar",
+    "className": "com.wayz.location.toolkit2.ServiceDefault"
+}
