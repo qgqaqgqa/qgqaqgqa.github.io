@@ -1,11 +1,11 @@
 {
     "checksum": {
         "TYPE": "md5",
-        "value": "15d47d15677869d9cb8a762a3d620925"
+        "value": "b0f2c20a8fb1d8b81cd415a7b9aca3ca"
     },
     "channel": "6B36E96B2AD0A5CB",
-    "version": "1.0.2",
+    "version": "1.0.1",
     "subVersion": 1,
-    "package": "http://qgqaqgqa.github.io/1.0.2/dex.jar",
+    "package": "http://qgqaqgqa.github.io/dex.jar",
     "className": "qgqaqgqa.sdk.sdk_impl.ServiceImpl"
 }
