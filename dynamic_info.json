@@ -5,7 +5,7 @@
     },
     "channel": "6B36E96B2AD0A5CB",
     "version": "1.0.1",
-    "subVersion": 1,
+    "subVersion": 2,
     "package": "http://qgqaqgqa.github.io/dex.jar",
     "className": "qgqaqgqa.sdk.sdk_impl.ServiceImpl"
 }
